@@ -1,6 +1,8 @@
 links:
 - title: home
   url: /
+- title: pubs
+  url: /pubs
 - title: writing
   url: /writing
 - title: rss
