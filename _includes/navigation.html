@@ -2,7 +2,7 @@
   <!--<h1 class="logo">{{ site.title }}</h1>-->
   <nav role="navigation">
 	<ul>
-		<li><img src="{{ site.baseurl }}/512-icon.png" width="25" height="25"></li>
+		<li><img src="{{ site.baseurl }}/assets/32-icon.png" width="32" height="32"></li>
 		{% for item in site.data.navigation.links %}
 			<li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% elsif item.url == "/" and page.url == "/index" %} class="active"{% endif %}>{{ item.title }}</a></li>
 		{% endfor %}
