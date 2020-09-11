@@ -18,18 +18,76 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: pgardias.com
-description: >- # this means to ignore newlines until "baseurl:"
+#title: pgardias.com
+#description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pgardias.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pgardias
-github_username:  pgardias
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://pgardias.com" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: pgardias
+#github_username:  pgardias
 
-# Build settings
-theme: minima
+site: pgardias.com
+url: "http://pgardias.com"
+title: pgardias.com
+description: Simple and minimalistic jekyll blogging theme.
+twitter:
+  username: pgardias
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
