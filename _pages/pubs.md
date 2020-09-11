@@ -4,7 +4,6 @@ title: Publications
 ---
 
 <style>
-h4 		{margin-top: 15px; margin-bot: 0;}
 p 		{margin-top: 0;}
 </style>
 
