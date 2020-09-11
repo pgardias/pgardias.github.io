@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<section class="posts">
+<section class="pubs">
 
 ### Enhanced Residual Networks for Context-based Image Outpainting
 [pdf]("{{ site.baseurl }}" /pdf/outpainting.pdf) | [arXiv](https://arxiv.org/abs/2005.06723) | [GitHub](https://github.com/etarthur/Outpainting)
