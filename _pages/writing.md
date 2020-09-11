@@ -1,4 +1,5 @@
 ---
 layout: writing
-title: Posts
+title: Writing
 ---
+
