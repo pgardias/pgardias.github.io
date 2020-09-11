@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="post">
-  <h2>{{ page.title }}</h2>
+  <h2>{% if item.url == "/" %}<img src="{{ site.baseurl }}/512-icon.png" width="100" height="100">{% endif %}{{ page.title }}</h2>
   {{ content }}
 </section>
 
