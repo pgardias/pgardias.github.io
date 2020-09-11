@@ -3,6 +3,6 @@ layout: writing
 title: Writing
 ---
 
-<br>  
+<hr><br>  
 
 [rss]({{ site.baseurl }}/atom.xml)

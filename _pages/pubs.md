@@ -4,8 +4,7 @@ title: Publications
 ---
 
 <style>
-h3 		{margin:0;line-height:0;}
-p 		{margin:0;line-height:0;}
+h3 		{margin-bot: 0;}
 </style>
 
 ### Enhanced Residual Networks for Context-based Image Outpainting
