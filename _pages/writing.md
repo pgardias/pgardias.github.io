@@ -5,4 +5,4 @@ title: Writing
 
 <br>  
 
-[rss]("{{ site.baseurl }}" /atom.xml)
+[rss]({{ site.baseurl }}/atom.xml)

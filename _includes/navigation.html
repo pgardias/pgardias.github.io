@@ -4,6 +4,8 @@
 <ul>
    {% for item in site.data.navigation.links %}
       <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% elsif item.url == "/" and page.url == "/index.md" %} class="active"{% endif %}>{{ item.title }}</a></li>
+      {{ item.url }}
+      {{ page.url }}
    {% endfor %}
 </ul>
 </nav>
