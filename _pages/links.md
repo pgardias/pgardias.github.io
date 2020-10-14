@@ -6,9 +6,11 @@ title: Link Aggregator
 Useful references from around the web, annotated for search brevity.
 
 
-# Table of contents
+## Table of contents
+<p style="margin: 20px;">
 1. [Utilities](#util)
 2. [Media](#media)
+</p>
 
 
 <a name="util"></a>
