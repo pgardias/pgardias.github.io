@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-***M.Sc. Thesis:** Learning Deep Social Interactions to Identify Positive Climate*  
+*\[M.Sc. Thesis\] Learning Deep Social Interactions to Identify Positive Climate*  
 [proposal]({{ site.baseurl }}/pdf/thesis/proposal.pdf)
 
 *Enhanced Residual Networks for Context-based Image Outpainting*  
