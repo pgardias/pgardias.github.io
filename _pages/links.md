@@ -6,16 +6,17 @@ title: Link Aggregator
 Useful references from around the web, annotated for search brevity.
 
 
-### Table of contents
-<div style="margin: 20px;">
-1. [Utilities](#util)
-2. [Media](#media)
-</div>
+### Table of Content
+---
+<ol style="margin: 20px;">
+	<li>[Utilities](#util)</li>
+	<li>[Media](#media)</li>
+</ol>
+---
 
 
 <a name="util"></a>
 #### Utilities
----
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
 
