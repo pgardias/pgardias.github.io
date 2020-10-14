@@ -5,5 +5,7 @@ links:
   url: /pubs
 - title: writing
   url: /writing
-- title: rss
+- title: links
+  url: /links
+- title: 
   url: /atom.xml
