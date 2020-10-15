@@ -11,6 +11,7 @@ Useful references from around the web, annotated for search brevity.
 2. [Research](#research)
 3. [Utilities](#util)
 4. [Media](#media)
+5. [Other](#other)
 </div>
 
 <a name="dl"></a>
@@ -63,3 +64,9 @@ Useful references from around the web, annotated for search brevity.
 ### Other Aggregators  
 
 [Programming essays list](https://www.benkuhn.net/progessays/) by Ben Kuhn is a collection of essays citeable in technical conversation  
+
+
+<a name="other"></a>
+### Other
+
+[Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/) describes levels of networking over the course of your life
