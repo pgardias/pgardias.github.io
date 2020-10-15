@@ -18,7 +18,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville is a free online textbook  
 
-[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by LeCun covers tips tuning neural networks through backpropagation 
+[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation 
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
@@ -33,6 +33,8 @@ Useful references from around the web, annotated for search brevity.
 
 <a name="research"></a>
 ### Research  
+
+[The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds the reality of working with persistent computational power growth  
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
