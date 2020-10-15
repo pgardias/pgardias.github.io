@@ -14,16 +14,18 @@ Useful references from around the web, annotated for search brevity.
 </div>
 
 <a name="dl"></a>
-#### Deep Learning  
+### Deep Learning  
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) covers tips tuning neural networks through backpropagation 
 
 [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville is a free online textbook  
 
-[GNN resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
+[Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
+
+[OpenAI Microscope](https://microscope.openai.com/models) visualizes activation features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
 <a name="research"></a>
-#### Research  
+### Research  
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
@@ -31,13 +33,13 @@ Useful references from around the web, annotated for search brevity.
 
 
 <a name="util"></a>
-#### Utilities  
+### Utilities  
 
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
 
 <a name="media"></a>
-#### Media  
+### Media  
 
 [Artvee](https://artvee.com) is a source of high resolution, public domain art  
 
@@ -45,6 +47,6 @@ Useful references from around the web, annotated for search brevity.
  
 
 <a name="aggregators"></a>
-#### Other Aggregators  
+### Other Aggregators  
 
 [Programming essays list](https://www.benkuhn.net/progessays/0) by Ben Kuhn is a collection of essays citeable in technical conversation  
