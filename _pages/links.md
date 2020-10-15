@@ -6,11 +6,15 @@ title: Link Aggregator
 Useful references from around the web, annotated for search brevity.
 
 ### Topics
+
+<div style="margin-left: 10px;">
+
 1. [Deep Learning](#dl)
 2. [Research](#research)
 3. [Utilities](#util)
 4. [Media](#media)
 
+</div>
 
 <a name="dl"></a>
 #### Deep Learning  
