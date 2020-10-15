@@ -7,7 +7,7 @@ Useful references from around the web, annotated for search brevity.
 
 ### Topics
 
-<div style="margin-left: 10px;">
+<div style="margin-left: 10px;" markdown=1>
 
 1. [Deep Learning](#dl)
 2. [Research](#research)
