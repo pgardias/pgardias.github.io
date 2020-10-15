@@ -48,7 +48,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
-[Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for [WebKit](https://apps.apple.com/us/app/vimari/id1480933944?mt=12), [Gecko](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/), and Chrome [\[1\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo), [\[2\]](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) browsers
+[Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)
 
 
 <a name="media"></a>
