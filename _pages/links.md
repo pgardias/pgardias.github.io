@@ -60,4 +60,4 @@ Useful references from around the web, annotated for search brevity.
 <a name="aggregators"></a>
 ### Other Aggregators  
 
-[Programming essays list](https://www.benkuhn.net/progessays/0) by Ben Kuhn is a collection of essays citeable in technical conversation  
+[Programming essays list](https://www.benkuhn.net/progessays/) by Ben Kuhn is a collection of essays citeable in technical conversation  
