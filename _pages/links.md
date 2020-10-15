@@ -3,6 +3,12 @@ layout: page
 title: Link Aggregator
 ---
 
+<style>
+	h1 h2 h3 h4 h5 {
+		margin: 0px 0px 0px 0px;
+	}
+</style>
+
 Useful references from around the web, annotated for search brevity.
 
 
