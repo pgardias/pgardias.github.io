@@ -22,6 +22,11 @@ Useful references from around the web, annotated for search brevity.
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
+[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy 
+- [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner 
+- [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
+
 [OpenAI Microscope](https://microscope.openai.com/models) visualizes activation features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
 <a name="research"></a>
