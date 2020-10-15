@@ -2,7 +2,7 @@
   <!--<h1 class="logo">{{ site.title }}</h1>-->
   <nav role="navigation">
 	<ul>
-		<li><img src="{{ site.baseurl }}/assets/touch-icon.png" alt="Logo" width="32" height="32" style="display: flex; justify-content: center;"></li>
+		<li><img src="{{ site.baseurl }}/assets/touch-icon.png" alt="Logo" width="32" height="32" style="display: flex; align-items: center; justify-content: center;"></li>
 		{% for item in site.data.navigation.links %}
 			<li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% elsif item.url == "/" and page.url == "/index" %} class="active"{% endif %}>{{ item.title }}</a></li>
 		{% endfor %}
