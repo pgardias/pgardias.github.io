@@ -16,9 +16,9 @@ Useful references from around the web, annotated for search brevity.
 <a name="dl"></a>
 ### Deep Learning  
 
-[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) covers tips tuning neural networks through backpropagation 
-
 [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville is a free online textbook  
+
+[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by LeCun covers tips tuning neural networks through backpropagation 
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
@@ -28,6 +28,8 @@ Useful references from around the web, annotated for search brevity.
 - [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
 
 [OpenAI Microscope](https://microscope.openai.com/models) visualizes activation features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
+
+[VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a self-contained image, audio, and video annotation tool
 
 <a name="research"></a>
 ### Research  
