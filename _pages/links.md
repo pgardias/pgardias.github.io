@@ -23,21 +23,21 @@ Useful references from around the web, annotated for search brevity.
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
-[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references
+[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references:
 <div style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy 
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner 
 - [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
 </div>
 
-[OpenAI Microscope](https://microscope.openai.com/models) visualizes activation features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
+[OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
 [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a self-contained image, audio, and video annotation tool
 
 <a name="research"></a>
 ### Research  
 
-[The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds the reality of working with persistent computational power growth  
+[The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds of the reality of working with persistent computational power growth  
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
