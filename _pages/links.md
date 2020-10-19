@@ -70,11 +70,6 @@ Useful references from around the web, annotated for search brevity.
 <a name="other"></a>
 ### Other  
 
-[strml.net](https://strml.net/) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)
+[strml.net](https://strml.net/) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)  
 
-[aem1k.com](https://aem1k.com/) by Martin Kleppe hosts an assortment of unique, simple JavaScript projects such as the water animation example below
-
-<body id=p onload=setInterval('
-for(I+=h=i=88;i--;p.innerHTML=h)
-for(h+=j=0;j<5+(s=Math.sin)(I+i/4)
-+s(I-i/9);j+=.3)h+="̥"',I=9)>
+[aem1k.com](https://aem1k.com/) by Martin Kleppe hosts an assortment of unique, simple JavaScript projects  
