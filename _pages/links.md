@@ -8,7 +8,7 @@ Useful references from around the web, annotated for search brevity.
 ### Topics
 <div style="margin-left: 25px;" markdown=1>
 1. [Deep Learning](#dl)
-2. [Research](#research)
+2. [Essays](#essays)
 3. [Utilities](#util)
 4. [Media](#media)
 5. [Other](#other)
@@ -37,14 +37,18 @@ Useful references from around the web, annotated for search brevity.
 [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a self-contained image, audio, and video annotation tool
 
 
-<a name="research"></a>
-### Research  
+<a name="essays"></a>
+### Essays  
 
 [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds of the reality of working with persistent computational power growth  
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
 [You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirection of academic work away from "curiosity driven research"  
+
+[Programming essays list](https://www.benkuhn.net/progessays/) by Ben Kuhn is a collection of essays citeable in technical conversation  
+
+[Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/) describes levels of networking over the course of your life  
 
 
 <a name="util"></a>
@@ -61,11 +65,16 @@ Useful references from around the web, annotated for search brevity.
 [Artvee](https://artvee.com) is a source of high resolution, public domain art  
 
 [Unsplash](https://unsplash.com) contains user-submitted images which adhere to an open use [license](https://unsplash.com/license)  
- 
+
 
 <a name="other"></a>
-### Other 
+### Other  
 
-[Programming essays list](https://www.benkuhn.net/progessays/) by Ben Kuhn is a collection of essays citeable in technical conversation  
+[strml.net](https://strml.net/) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)
 
-[Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/) describes levels of networking over the course of your life  
+[aem1k.com](https://aem1k.com/) by Martin Kleppe hosts an assortment of unique, simple JavaScript projects such as the water animation example below
+
+<body id=p onload=setInterval('
+for(I+=h=i=88;i--;p.innerHTML=h)
+for(h+=j=0;j<5+(s=Math.sin)(I+i/4)
++s(I-i/9);j+=.3)h+="̥"',I=9)>
