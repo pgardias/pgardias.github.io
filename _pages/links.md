@@ -19,7 +19,9 @@ Useful references from around the web, annotated for search brevity.
 
 [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville is a free online textbook  
 
-[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation 
+[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
+
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a handy linear algebra reference  
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
@@ -33,6 +35,7 @@ Useful references from around the web, annotated for search brevity.
 [OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
 [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a self-contained image, audio, and video annotation tool
+
 
 <a name="research"></a>
 ### Research  
@@ -60,13 +63,9 @@ Useful references from around the web, annotated for search brevity.
 [Unsplash](https://unsplash.com) contains user-submitted images which adhere to an open use [license](https://unsplash.com/license)  
  
 
-<a name="aggregators"></a>
-### Other Aggregators  
+<a name="other"></a>
+### Other 
 
 [Programming essays list](https://www.benkuhn.net/progessays/) by Ben Kuhn is a collection of essays citeable in technical conversation  
 
-
-<a name="other"></a>
-### Other
-
-[Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/) describes levels of networking over the course of your life
+[Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/) describes levels of networking over the course of your life  
