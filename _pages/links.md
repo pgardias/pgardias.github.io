@@ -44,7 +44,7 @@ Useful references from around the web, annotated for search brevity.
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
-[You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirecting away from "curiosity driven research"  
+[You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirection of academic work away from "curiosity driven research"  
 
 
 <a name="util"></a>
