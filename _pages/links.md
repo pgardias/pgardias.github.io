@@ -25,6 +25,8 @@ Useful references from around the web, annotated for search brevity.
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
+[einops](https://arogozhnikov.github.io/einops/pytorch-examples.html) is a PyTorch tensor modification library which easily abstracts complex transformations and has a handle [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
+
 [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references:
 <div style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy 
@@ -58,7 +60,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
 
-<a href="https://www.libreoffice.org/"><div style="color: green; font-weight: bold;">Libre</div>Office</a> is a free office software suite including a word processor, spreadsheet editor, etc.
+<a href="https://www.libreoffice.org/"><span style="color: green; font-weight: bold;">Libre</span>Office</a> is a free office software suite including a word processor, spreadsheet editor, etc.
 
 
 <a name="media"></a>
