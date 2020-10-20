@@ -12,7 +12,8 @@ Useful references from around the web, annotated for search brevity.
 3. [Utilities](#util)
 4. [Media](#media)
 5. [Other](#other)
-</div> -->
+</div> 
+-->
 
 <a name="dl"></a>
 ### Deep Learning  
