@@ -5,7 +5,7 @@ title: Link Aggregator
 
 Useful references from around the web, annotated for search brevity.
 
-### Topics
+#### Topics
 <div style="margin-left: 25px;" markdown=1>
 1. [Deep Learning](#dl)
 2. [Essays](#essays)
@@ -13,6 +13,8 @@ Useful references from around the web, annotated for search brevity.
 4. [Media](#media)
 5. [Other](#other)
 </div>
+
+---
 
 <a name="dl"></a>
 ### Deep Learning  
@@ -56,7 +58,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
-[Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)
+[Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
 
 
 <a name="media"></a>
