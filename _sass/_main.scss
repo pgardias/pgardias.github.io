@@ -74,7 +74,7 @@ hr {
 }
 
 header {
-	flex-basis:10rem;
+	flex-basis:5rem;
 	flex-grow:1;
 	position:relative;
 }
@@ -191,8 +191,8 @@ main {
 
 section {
 	flex-basis:0;
-	flex-grow:999;
-	min-width:70%;
+	flex-grow:0;
+	min-width:80%;
 	display:flex;
 	flex-direction:column;
 	
