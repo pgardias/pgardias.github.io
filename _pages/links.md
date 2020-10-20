@@ -58,6 +58,8 @@ Useful references from around the web, annotated for search brevity.
 
 [Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
 
+[<div style="color: green; font-weight: bold;" markdown=1>Libre</div>Office](https://www.libreoffice.org/)
+
 
 <a name="media"></a>
 ### Media  
