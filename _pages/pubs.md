@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<h4 style="margin-block-end: 0.5em;">2020</h4>
+<h4 style="margin-block-end: 0;">2020</h4>
 
 *Learning Deep Social Interactions to Identify Positive Climate*  
 [proposal]({{ site.baseurl }}/pdf/thesis/proposal.pdf)
