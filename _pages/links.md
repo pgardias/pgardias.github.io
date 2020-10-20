@@ -80,6 +80,6 @@ Useful references from around the web, annotated for search brevity.
 <a name="other"></a>
 ### Other  
 
-[strml.net](https://strml.net/) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)  
+[strml.net](https://strml.net) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)  
 
 [aem1k.com](https://aem1k.com/) by Martin Kleppe hosts an assortment of unique, simple JavaScript projects  
