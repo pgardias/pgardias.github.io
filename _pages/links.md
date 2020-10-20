@@ -34,6 +34,8 @@ Useful references from around the web, annotated for search brevity.
 - [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
 </div>
 
+[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) articulates the concept of winning ticket random weight initializations which allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques
+
 [OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
 [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a self-contained image, audio, and video annotation tool
