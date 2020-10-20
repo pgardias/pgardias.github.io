@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-#### 2020  
+#### 2020
 
 *Learning Deep Social Interactions to Identify Positive Climate*  
 [proposal]({{ site.baseurl }}/pdf/thesis/proposal.pdf)
@@ -14,7 +14,7 @@ title: Publications
 *Augmented Reality as a Means of Improving Efficiency and Immersion of Human-Swarm Interaction*  
 [pdf]({{ site.baseurl }}/pdf/hsi.pdf) \| [poster]({{ site.baseurl }}/pdf/hsi_poster.pdf) \| [nestlab](https://nestlab.net/doku.php)
 
-#### 2019  
+#### 2019
 
 *Forgery Recognition Through Handwriting Style Extraction and Emulation*  
 [site](http://{{ site.baseurl }}/forgery-recognition/) \| [code](https://github.com/pgardias/forgery-recognition)
