@@ -6,7 +6,7 @@ title: Link Aggregator
 Useful references from around the web, annotated for search brevity.
 
 #### Topics
-<div style="margin-left: 25px; font-size: small;" markdown=1>
+<div style="margin-left: 25px; font-size: 14px;" markdown=1>
 1. [Deep Learning](#dl)
 2. [Essays](#essays)
 3. [Utilities](#util)
