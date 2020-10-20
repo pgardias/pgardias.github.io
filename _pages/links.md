@@ -36,7 +36,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
 
-[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) explores the concept of winning ticket random weight initializations which allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques  
+[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations which allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques  
 
 [Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for both reinforcement learning and classical supervised learning tasks  
 
