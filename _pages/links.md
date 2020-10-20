@@ -27,11 +27,11 @@ Useful references from around the web, annotated for search brevity.
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500; color: DimGray;"><span style="color: SlateBlue;">ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
-[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references:
+[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references
 <div style="margin-left: 25px;" markdown=1>
-- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy 
-- [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner 
-- [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
+- [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
+- [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al
 </div>
 
 [Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
