@@ -59,6 +59,8 @@ Useful references from around the web, annotated for search brevity.
 
 <a href="https://www.libreoffice.org/" style="font-weight: 500;"><span style="color: green;">Libre</span>Office</a> is a free office software suite including a word processor, spreadsheet editor, etc.
 
+[LyX](https://www.lyx.org/) is a word processor built on top of LaTeX made for great writing right out of the box
+
 
 <a name="media"></a>
 ### Media  
