@@ -12,13 +12,11 @@ Useful references from around the web, annotated for search brevity.
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
-[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a handy general linear algebra reference  
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a handy linear algebra reference  
 
-[Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides a fantastic visual comprehension of linear algebra concepts  
+[Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts  
 
 [A Programmer's Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) describes matrices as collections of data and functions  
-
-[Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;"><span style="color: SlateBlue;">ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
@@ -32,6 +30,8 @@ Useful references from around the web, annotated for search brevity.
 [Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
 
 [The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations that allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques  
+
+[Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
 [Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for both reinforcement learning and classical supervised learning tasks  
 
