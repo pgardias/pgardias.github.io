@@ -12,7 +12,11 @@ Useful references from around the web, annotated for search brevity.
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
-[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a handy linear algebra reference  
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a handy general linear algebra reference  
+
+[Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides a fantastic visual comprehension of linear algebra concepts  
+
+[A Programmer's Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) describes matrices as collections of data and functions  
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
@@ -33,7 +37,7 @@ Useful references from around the web, annotated for search brevity.
 
 [OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
-[VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a self-contained image, audio, and video annotation tool
+[VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a simple, self-contained image, audio, and video annotation tool
 
 
 <a name="essays"></a>
@@ -55,7 +59,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
-[Vimium](https://vimium.github.io/) lets you quickly browse the web Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
+[Vimium](https://vimium.github.io/) lets you quickly browse the web using your keyboard Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
 
 <a href="https://www.libreoffice.org/" style="font-weight: 500;"><span style="color: green;">Libre</span>Office</a> is a free office software suite including a word processor, spreadsheet editor, etc.
 
