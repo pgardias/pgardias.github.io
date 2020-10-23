@@ -12,20 +12,22 @@ Useful references from around the web, annotated for search brevity.
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
-[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a handy linear algebra reference  
-
-[Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts  
-
-[A Programmer's Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) describes matrices as collections of data and functions  
+A number of useful references for linear algebra:
+<span> style="margin-left: 25px;" markdown=1>
+- [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is an extensive linear algebra reference  
+- [Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts  
+- [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs) interprets matrices as relations  
+- [A Programmer's Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) describes matrices as collections of data and functions  
+</span>  
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;"><span style="color: SlateBlue;">ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
 [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references
-<div style="margin-left: 25px;" markdown=1>
+<span style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
 - [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al
-</div>
+</span>
 
 [Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
 
