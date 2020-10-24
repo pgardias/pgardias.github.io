@@ -12,6 +12,10 @@ Useful references from around the web, annotated for search brevity.
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
+[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations that allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques 
+
+[Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces 
+
 A number of helpful methods for approaching linear algebra:
 <div style="margin-left: 25px;" markdown=1>
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a collection of identities, approximations, inequalities, etc. about matrices
@@ -19,21 +23,17 @@ A number of helpful methods for approaching linear algebra:
 - [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs) interprets matrices as relations
 - [A Programmer's Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) describes matrices as collections of data and functions
 </div>  
-
-<a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: SlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
-
+ 
 [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) describes tips for fitting timeseries data and references:
 <div style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
 - [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
-</div>
+</div> 
 
-[Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
+[Graph Neural Network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
-[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations that allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques  
-
-[Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
+<a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: DarkSlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
 [Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for reinforcement learning and classical supervised learning tasks  
 
