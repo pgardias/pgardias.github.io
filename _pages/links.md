@@ -13,7 +13,7 @@ Useful references from around the web, annotated for search brevity.
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
 A number of useful references for linear algebra:
-<span> style="margin-left: 25px;" markdown=1>
+<span style="margin-left: 25px;" markdown=1>
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is an extensive linear algebra reference  
 - [Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts  
 - [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs) interprets matrices as relations  
