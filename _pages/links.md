@@ -26,7 +26,7 @@ A number of helpful methods for approaching linear algebra:
 <div style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
-- [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al
+- [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
 </div>
 
 [Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
