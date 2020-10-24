@@ -22,7 +22,7 @@ A number of helpful methods for approaching linear algebra:
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: SlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
-[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) covers fitting timeseries data and references
+[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) describes tips for fitting timeseries data and references
 <div style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
