@@ -22,7 +22,7 @@ A number of helpful methods for approaching linear algebra:
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: SlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
-[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) describes tips for fitting timeseries data and references
+[The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/) describes tips for fitting timeseries data and references:
 <div style="margin-left: 25px;" markdown=1>
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
@@ -35,7 +35,7 @@ A number of helpful methods for approaching linear algebra:
 
 [Graph neural network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
-[Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for both reinforcement learning and classical supervised learning tasks  
+[Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for reinforcement learning and classical supervised learning tasks  
 
 [OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
 
