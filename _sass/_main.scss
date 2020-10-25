@@ -224,7 +224,10 @@ div.circletag {
 }
 
 div.circletag > img {
-   max-height: 100%;
-   max-width: 100%;
-   border-radius: 50%; opacity: 1.0;
+   max-height: 90%;
+   max-width: 90%;
+   border-radius: 50%;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%; 
+   opacity: 1.0;
 }
