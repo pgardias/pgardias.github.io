@@ -190,12 +190,11 @@ main {
 }
 
 section {
-	flex-basis:0;
-	flex-grow:1;
-	min-width:80%;
-	display:flex;
-	flex-direction:column;
-	
+	flex-basis: 0;
+	flex-grow: 1;
+	min-width: 80%;
+	display: flex;
+	flex-direction: column;
 }
 
 figcaption {
@@ -203,12 +202,12 @@ figcaption {
 }
 
 .parent {
-    display:table;
-    width:100%;
-    border-collapse: separate;
-    border-spacing: 0 1rem;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    flex-grow: 1;
 }
 
 .parent > div {
-    display:table-cell;
+    display: table-cell;
 }
