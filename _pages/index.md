@@ -9,7 +9,7 @@ title: Przemek Gardias
 		<p style="margin-top: 5rem;">
 			Graduate Student at <a href="https://web.cs.wpi.edu/">Worcester Polytechnic Institute</a>, working with <a href="https://users.wpi.edu/~jrwhitehill/">Jacob Whitehill</a>. My research lies at the intersection of applied deep learning and affective computing for classroom observations.
 		</p>
-		<p>
+		<p style="float: right;">
 			<a href="{{ site.baseurl }}/pdf/cv.pdf">cv</a> | <a href="https://github.com/pgardias">github</a> | <a href="https://scholar.google.com/citations?user=LpoiVbkAAAAJ">scholar</a>
 		</p>	
 	</p>
