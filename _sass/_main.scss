@@ -207,3 +207,21 @@ figcaption {
     flex-wrap: wrap;
     align-items: center;
 }
+
+div.circletag {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: ##BD754D;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+div.circletag > img {
+   max-height: 100%;
+   max-width: 100%;
+}
