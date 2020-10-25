@@ -201,12 +201,13 @@ figcaption {
     font-size: smaller;
 }
 
-.parent {
+.fp {
     display: flex;
-    width: 100%;
     flex-direction: row;
-    flex-grow: 1;
     flex-wrap: wrap;
     align-items: center;
-	justify-content: center;
+}
+
+.fc {
+	flex: 1 0 45%;
 }
