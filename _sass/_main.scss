@@ -210,16 +210,13 @@ figcaption {
 
 div.circletag {
     display: block;
-    width: 13rem;
-    height: 13rem;
-    background: #3b555f;
+    background: #21293c;
     text-align: center;
     align-content: center;
     align-items: center;
     border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
-    flex: 0 0 13rem;
 }
 
 div.circletag > img {
