@@ -220,14 +220,15 @@ div.circletag {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     flex: 0 0 13rem;
-    opacity: 0.6;
+    opacity: 0.5;
 }
 
 div.circletag > img {
-   max-height: 90%;
-   max-width: 90%;
+   max-height: 100%;
+   max-width: 100%;
    border-radius: 50%;
    -moz-border-radius: 50%;
    -webkit-border-radius: 50%; 
-   opacity: 1.0;
+   opacity: 2.0;
+   padding: 0.6rem;
 }
