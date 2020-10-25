@@ -4,7 +4,7 @@ title: Przemek Gardias
 ---
 
 <div class="fp" markdown=0>
-	<div class="circletag" style="margin: 2rem; flex: 0 0 13rem;">
+	<div class="circletag" style="flex: 0 0 13rem; opacity: 0.6;">
 		<img src="{{site.url}}/assets/profile.jpg" alt="Profile" style="height: 11rem; width: 11rem; border-radius: 50%;">
 	</div>
 	<p style="margin: 1rem; flex: 1 1 40%">
