@@ -202,11 +202,12 @@ figcaption {
     font-size: smaller;
 }
 
-.parent{
+.parent {
     display:table;
     width:100%;
+    border-spacing: 0 1rem;
 }
 
-.parent > div{
+.parent > div {
     display:table-cell;
 }
