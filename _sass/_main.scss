@@ -201,3 +201,17 @@ section {
 figcaption {
     font-size: smaller;
 }
+
+.parent{
+    display:table;
+    width:100%;
+}
+.parent > div{
+    display:table-cell;
+    min-width:100px;
+    background:red;
+}
+.parent > .right{
+    background:green;
+}
+
