@@ -206,4 +206,6 @@ figcaption {
     width: 100%;
     flex-direction: row;
     flex-grow: 1;
+    flex-wrap: wrap;
+    align-items: center;
 }
