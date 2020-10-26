@@ -68,16 +68,13 @@ A number of helpful methods for approaching linear algebra:
 [LyX](https://www.lyx.org/) is a word processor built on top of LaTeX made for great writing right out of the box
 
 
-<a name="media"></a>
-### Media  
-
+<a name="other"></a>
+### Other  
 [Artvee](https://artvee.com) is a source of high resolution, public domain art  
 
 [Unsplash](https://unsplash.com) contains user-submitted images which adhere to an open use [license](https://unsplash.com/license)  
 
-
-<a name="other"></a>
-### Other  
+[The Eye](https://the-eye.eu/public/) is a digital library with some interesting [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/)
 
 [strml.net](https://strml.net) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)  
 
