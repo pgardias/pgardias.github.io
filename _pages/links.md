@@ -74,7 +74,7 @@ A number of helpful methods for approaching linear algebra:
 
 [Unsplash](https://unsplash.com) contains user-submitted images which adhere to an open use [license](https://unsplash.com/license)  
 
-[The Eye](https://the-eye.eu/public/) is a digital library with some interesting [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/)
+[The Eye](https://the-eye.eu/public/) is a digital library that includes [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/) and Nation Gallery [paintings](https://the-eye.eu/public/Images/National%20Gallery%20Paintings/)
 
 [strml.net](https://strml.net) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)  
 
