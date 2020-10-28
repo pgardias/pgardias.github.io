@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Przemek Gardias
+description: Graduate Student at Worcester Polytechnic Institute.
 ---
 
 <div class="fp" markdown=0>
