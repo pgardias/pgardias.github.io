@@ -16,7 +16,7 @@ Useful references from around the web, annotated for search brevity.
 
 [Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces 
 
-A number of helpful methods for approaching linear algebra:
+A number of helpful sources for approaching linear algebra:
 <div style="margin-left: 25px;" markdown=1>
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a collection of identities, approximations, inequalities, etc. about matrices
 - [Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts
