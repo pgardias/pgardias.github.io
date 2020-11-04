@@ -49,6 +49,8 @@ A number of helpful sources for approaching linear algebra:
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
+[How to do Research at the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) is full of useful advice for any researcher  
+
 [You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirection of academic work away from "curiosity driven research"  
 
 [Programming essays list](https://www.benkuhn.net/progessays/) by Ben Kuhn is a collection of essays citeable in technical conversation  
