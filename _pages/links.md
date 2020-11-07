@@ -37,9 +37,9 @@ A number of helpful sources for approaching linear algebra:
 
 [Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for reinforcement learning and classical supervised learning tasks  
 
-[OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)
+[OpenAI Microscope](https://microscope.openai.com/models) visualizes features of a collection of convolutional neural networks using [lucid](https://github.com/tensorflow/lucid)  
 
-[VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a simple, self-contained image, audio, and video annotation tool
+[VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) is a simple, self-contained image, audio, and video annotation tool  
 
 
 <a name="essays"></a>
@@ -50,6 +50,8 @@ A number of helpful sources for approaching linear algebra:
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
 [How to do Research at the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) is full of useful advice for any researcher  
+
+[Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html) is an essay to prospective undergraduates interested in research, from a [series](https://pages.gseis.ucla.edu/faculty/agre/index.html) of essays by Philip Agre  
 
 [You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirection of academic work away from "curiosity driven research"  
 
