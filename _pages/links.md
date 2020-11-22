@@ -67,7 +67,7 @@ A number of helpful sources for approaching linear algebra:
 
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
-[Vimium](https://vimium.github.io/) lets you quickly browse the web using your keyboard Vim-style with alternatives available for most modern browesers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
+[Vimium](https://vimium.github.io/) lets you quickly browse the web using your keyboard Vim-style with alternatives available for most modern browsers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
 
 <a href="https://www.libreoffice.org/" style="font-weight: 500;"><span style="color: green;">Libre</span>Office</a> is a free office software suite including a word processor, spreadsheet editor, etc.
 
