@@ -33,7 +33,7 @@ A number of helpful sources for approaching linear algebra:
 
 [Graph Neural Network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
 
-[The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/) is a fun exploration of the breadth of deep learning network architectures by the Asimov Institute  
+[The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/) by the Asimov Institute is a fun exploration of the breadth of deep learning network architectures  
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: DarkSlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
