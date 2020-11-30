@@ -78,7 +78,7 @@ A number of helpful sources for approaching linear algebra:
 ### Other  
 [Learn X in Y Minutes](https://learnxinyminutes.com/) is a quick reference tool for refreshing familiarity with a programming language and follows a unique tutorial [format](https://teachxinyminutes.com/)  
 
-[Paul's Math Notes](https://tutorial.math.lamar.edu/) has been my go-to reference for math notes from grade school algebra to calculus in college  
+[Paul's Math Notes](https://tutorial.math.lamar.edu/) is full of great math notes from grade school algebra to calculus in college  
 
 [Cambridge Notes](http://dec41.user.srcf.net/notes/) by Dexter Chua is a collection of curated notes on many math and physics courses  
 
