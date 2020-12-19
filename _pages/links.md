@@ -12,9 +12,9 @@ Useful references from around the web, annotated for search brevity.
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
-[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations that allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques 
+[The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations that allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques  
 
-[Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces 
+[Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
 
 A number of helpful sources for approaching linear algebra:
 <div style="margin-left: 25px;" markdown=1>
@@ -29,9 +29,11 @@ A number of helpful sources for approaching linear algebra:
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/) by Danijar Hafner
 - [LSTM: A Search Space Odyssey](https://ieeexplore.ieee.org/document/7508408/) by Greff et al.
-</div> 
+</div>  
 
 [Graph Neural Network resources](https://twitter.com/PetarV_93/status/1306689702020382720), a Twitter thread by Petar Veličković, contains great resources covering the state of graph neural networks  
+
+[The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/) by the Asimov Institute is a fun exploration of the breadth of deep learning network architectures  
 
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: DarkSlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
@@ -74,6 +76,12 @@ A number of helpful sources for approaching linear algebra:
 
 <a name="other"></a>
 ### Other  
+[Learn X in Y Minutes](https://learnxinyminutes.com/) is a quick reference tool for refreshing familiarity with a programming language and follows a unique tutorial [format](https://teachxinyminutes.com/)  
+
+[Paul's Math Notes](https://tutorial.math.lamar.edu/) is full of great math notes from grade school algebra to calculus in college  
+
+[Cambridge Notes](http://dec41.user.srcf.net/notes/) by Dexter Chua is a collection of curated notes on many math and physics courses  
+
 [Artvee](https://artvee.com) is a source of high resolution, public domain art  
 
 [The Eye](https://the-eye.eu/public/) is a digital library that includes [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/) and National Gallery [paintings](https://the-eye.eu/public/Images/National%20Gallery%20Paintings/)  
