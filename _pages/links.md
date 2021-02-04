@@ -84,8 +84,4 @@ A number of helpful sources for approaching linear algebra:
 
 [Artvee](https://artvee.com) is a source of high resolution, public domain art  
 
-[The Eye](https://the-eye.eu/public/) is a digital library that includes [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/) and National Gallery [paintings](https://the-eye.eu/public/Images/National%20Gallery%20Paintings/)  
-
-[strml.net](https://strml.net) by Samuel Reed is an interactive website inspired by the work of [Jake Albaugh](https://codepen.io/jakealbaugh/)  
-
-[aem1k.com](https://aem1k.com/) by Martin Kleppe hosts an assortment of unique, simple JavaScript projects  
+[The Eye](https://the-eye.eu/public/) is a digital library that includes [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/) and National Gallery [paintings](https://the-eye.eu/public/Images/National%20Gallery%20Paintings/)
