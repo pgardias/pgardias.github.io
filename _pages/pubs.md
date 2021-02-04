@@ -17,4 +17,4 @@ title: Publications
 <h4 style="margin-block-end: 0.25em;">2019</h4>
 
 *Forgery Recognition Through Handwriting Style Extraction and Emulation*  
-[site](http://{{ site.baseurl }}/forgery-recognition/) \| [code](https://github.com/pgardias/forgery-recognition)
+[site]({{ site.baseurl }}/forgery-recognition/) \| [code](https://github.com/pgardias/forgery-recognition)
