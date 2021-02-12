@@ -17,15 +17,12 @@ body {
 
 banner {
 	padding-bottom: 1.125rem;
-    padding-top: 1rem
-    border: .0625rem solid var(--ui-color-brand);
-    border-radius: var(--ui-radius-button);
+    padding-top: 1rem;
+    border: .0625rem solid;
     display: block;
     font-weight: 700;
     line-height: 1;
     text-align: center;
-    background-color: var(--ui-color-brand);
-    color: var(--ui-color-typography-button);
     padding-bottom: 1.125rem;
     padding-top: 1rem;
 }
