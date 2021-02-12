@@ -16,5 +16,5 @@ description: Graduate Student at Worcester Polytechnic Institute.
 	</p>
 </div>
 <div>
-	<p class="banner ui-component-button ui-component-button-normal ui-component-button-primary">Enter</p>
+	<p class="banner">Enter</p>
 </div>
