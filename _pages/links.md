@@ -3,11 +3,10 @@ layout: page
 title: Link Aggregator
 ---
 
-Useful references from around the web, annotated for search brevity.
+Fun or useful references from around the web, annotated for search brevity.
 
 <a name="dl"></a>
 ### Deep Learning  
-
 [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville is a free online textbook  
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
@@ -46,14 +45,13 @@ A number of helpful sources for approaching linear algebra:
 
 <a name="essays"></a>
 ### Essays  
-
 [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds of the reality of working with persistent computational power growth  
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  
 
 [How to do Research at the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) is full of useful advice for any researcher  
 
-[Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html) is an essay to prospective undergraduates interested in research, from a [series](https://pages.gseis.ucla.edu/faculty/agre/index.html) of essays by Philip Agre  
+[Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html) is an essay to prospective undergraduate students interested in research, from a [series](https://pages.gseis.ucla.edu/faculty/agre/index.html) of essays by Philip Agre  
 
 [You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirection of academic work away from "curiosity driven research"  
 
@@ -64,14 +62,13 @@ A number of helpful sources for approaching linear algebra:
 
 <a name="util"></a>
 ### Utilities  
-
 [Detexify](https://detexify.kirelabs.org/classify.html) converts character sketches to LaTeX  
 
 [Vimium](https://vimium.github.io/) lets you quickly browse the web using your keyboard Vim-style with alternatives available for most modern browsers [\[1\]](https://apps.apple.com/us/app/vimari/id1480933944?mt=12) [\[2\]](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) [\[3\]](https://microsoftedge.microsoft.com/addons/detail/vimium-c-all-by-keyboar/aibcglbfblnogfjhbcmmpobjhnomhcdo)  
 
 <a href="https://www.libreoffice.org/" style="font-weight: 500;"><span style="color: green;">Libre</span>Office</a> is a free office software suite including a word processor, spreadsheet editor, etc.
 
-[LyX](https://www.lyx.org/) is a word processor built on top of LaTeX made for great writing right out of the box
+[LyX](https://www.lyx.org/) is a word processor built on top of LaTeX made for great writing right out of the box  
 
 
 <a name="other"></a>
@@ -84,4 +81,6 @@ A number of helpful sources for approaching linear algebra:
 
 [Artvee](https://artvee.com) is a source of high resolution, public domain art  
 
-[The Eye](https://the-eye.eu/public/) is a digital library that includes [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/) and National Gallery [paintings](https://the-eye.eu/public/Images/National%20Gallery%20Paintings/)
+[The Eye](https://the-eye.eu/public/) is a digital library that includes [datasets](https://the-eye.eu/public/AI/pile_preliminary_components/) and National Gallery [paintings](https://the-eye.eu/public/Images/National%20Gallery%20Paintings/)  
+
+[Vimgifs](https://vimgifs-544mvq4w0-mraza007.vercel.app) is a collection of gifs exemplifying usage of Vim  
