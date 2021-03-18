@@ -18,7 +18,7 @@ Fun or useful references from around the web, annotated for search brevity.
 A number of helpful sources for approaching linear algebra:
 <div style="margin-left: 25px;" markdown=1>
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by Petersen and Pedersen is a collection of identities, approximations, inequalities, etc. about matrices
-- [Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts
+- [Essense of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) by Grant Sanderson (3Blue1Brown) is a video series that provides fantastic visual comprehension of linear algebra concepts (notably created in [Manim](https://3b1b.github.io/manim/index.html))
 - [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs) interprets matrices as relations
 - [A Programmer's Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) describes matrices as collections of data and functions
 </div>  
