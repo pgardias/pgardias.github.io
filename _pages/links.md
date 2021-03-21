@@ -59,6 +59,8 @@ A number of helpful sources for approaching linear algebra:
 
 [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/) describes levels of networking over the course of your life  
 
+[Notes from the Mystery Machine Bus](https://gist.github.com/mrnugget/49ad3ee4043c746e42187e2820ddc2f6) by Steve Yegge is a legendary rant which frames software engineering as a political affiliation  
+
 
 <a name="util"></a>
 ### Utilities  
