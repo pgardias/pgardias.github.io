@@ -13,7 +13,7 @@ Fun or useful references from around the web, annotated for search brevity.
 
 [The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635) by Frankle and Carbin explores the concept of winning ticket random weight initializations that allow subnetworks within feed-forward neural networks to train comparably to those created using standard pruning techniques  
 
-[Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton discusses ideas for optimizing deep network weights given the nature of high-dimensional spaces  
+[Why Deep Learning Works Even Though It Shouldn't](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) by Ryan Moulton writes of his research intuitions and offers suggestions  
 
 A number of helpful sources for approaching linear algebra:
 <div style="margin-left: 25px;" markdown=1>
