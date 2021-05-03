@@ -6,7 +6,7 @@ title: Publications
 <h4 style="margin-block-end: 0;">2021</h4>
 
 *Learning Deep Social Interactions to Identify Positive Climate*  
-[proposal]({{ site.baseurl }}/pdf/thesis/proposal.pdf)  
+[thesis]({{ site.baseurl }}/pdf/thesis/thesis.pdf) \| [proposal]({{ site.baseurl }}/pdf/thesis/proposal.pdf) \| []({{ site.baseurl }}/pdf/thesis/20210420-220520.tar.gz)  
 
 <h4 style="margin-block-end: 0;">2020</h4>
 
