@@ -6,7 +6,7 @@
 				<img src="{{ site.baseurl }}/assets/512-icon.png" alt="Logo" style="width: 2rem; height: 2rem; ">
 			</li>
 			{% for item in site.data.navigation.links %}
-				{% if item.url != "/writing" %}
+				{% unless item.url == "/writing" %}
 					<li>
 						<a href="{{ item.url }}" 
 							{% if item.url == page.url %} 
@@ -18,7 +18,7 @@
 							{{ item.title }}
 						</a>
 					</li>
-				{% endif %}
+				{% endunless %}
 			{% endfor %}
 		</ul>
 	</nav>
