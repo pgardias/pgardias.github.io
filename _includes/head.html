@@ -17,9 +17,9 @@
       Page {{ paginator.page }} of {{ paginator.total_pages }} -
     {% endif %}
     {{ site.title | escape }}
-    {% unless page.tag or page.title %}
+    <!-- {% unless page.tag or page.title %}
       - {{ site.description | escape }}
-    {% endunless %}
+    {% endunless %} -->
   </title>
   <!-- <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico?"> -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/touch-icon.png">
