@@ -3,7 +3,7 @@ layout: page
 title: Hyperlinks
 ---
 
-Fun or useful references from around the web, annotated with some keywords if you know what you're looking for. If you have a recommendation, even if doesn't fit in below, [drop me a note](mailto:pmg@duck.com).  
+Fun or useful references from around the web, annotated with some keywords if you know what you're looking for. If you have a recommendation, even if doesn't fit in below, [send me a note](mailto:pmg@duck.com).  
 
 
 <a name="personal"></a>
@@ -12,7 +12,7 @@ The best feature of the web is the low overhead to serving your own content. Som
 
 [Gwern Branwen](https://www.gwern.net) frequently blogs a breadth of sometimes contrarian, unbashedly opinionated tech culture pieces  
 
-[Patrick Collison](https://patrickcollison.com/about) curates pages on topics he pondders, such as [quick execution](https://patrickcollison.com/fast)  
+[Patrick Collison](https://patrickcollison.com/about) curates pages on topics he explores, such as [quick execution](https://patrickcollison.com/fast)  
 
 José Luis Ricón blogs on [Nintil](https://nintil.com), where his recent thoughts have focused on longevity  
 
