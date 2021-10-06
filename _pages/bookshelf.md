@@ -7,6 +7,7 @@ After wrapping up my graduate studies I found myself reaching for books that I h
 
 If you have a recommendation or found this interesting [let me know](mailto:pmg@duck.com).  
 
+<div style="margin-left: 25px;" markdown=1>
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values](https://www.amazon.com/dp/0060839872)  
 
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/dp/0812993012)  
@@ -28,3 +29,4 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 - [Martin Chuzzlewit](https://www.amazon.com/dp/0140436146)  
 
 - [The Mystery of Edwin Drood](https://www.amazon.com/dp/0140439269)  
+</div>  
