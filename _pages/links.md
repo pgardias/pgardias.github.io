@@ -8,7 +8,7 @@ Fun or useful references from around the web, annotated with some keywords if yo
 
 <a name="personal"></a>
 ### Personal Websites  
-The best feature of the web is the low overhead to serving your own content. Some folks design or write about really cool stuff, here's a mostly-annotated number of personal websites. Turns out much of the high-quality web content is highly interwoven!  
+The best feature of the web is the increasingly lower cost to hosting and serving your own content. Some folks write or design unique stuff, here's a mostly-annotated number of personal websites. Turns out much of the high-quality web content is highly interwoven!  
 
 [Gwern Branwen](https://www.gwern.net) frequently blogs a breadth of sometimes contrarian, unbashedly opinionated tech culture pieces  
 
@@ -17,6 +17,12 @@ The best feature of the web is the low overhead to serving your own content. Som
 José Luis Ricón blogs on [Nintil](https://nintil.com), where his recent thoughts have focused on longevity  
 
 [Andy Matuschak](https://andymatuschak.org) publishes his personal [notes](https://notes.andymatuschak.org/About_these_notes) online as an experiment of working in the open, writing about his experiences designing human empowering systems  
+
+And so many more...
+<div style="margin-left: 25px;" markdown=1>
+- [Julia Evans](https://jvns.ca)
+- [Dan Lemire](https://lemire.me/blog/)
+</div>
 
 
 <a name="dl"></a>
