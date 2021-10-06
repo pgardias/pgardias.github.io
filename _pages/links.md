@@ -19,11 +19,9 @@ José Luis Ricón blogs on [Nintil](https://nintil.com), where his recent though
 [Andy Matuschak](https://andymatuschak.org) publishes his personal [notes](https://notes.andymatuschak.org/About_these_notes) online as an experiment of working in the open, writing about his experiences designing human empowering systems  
 
 
-
-
 <a name="dl"></a>
 ### Deep Learning  
-[Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville is a free online textbook  
+[Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville is a free online textbook  
 
 [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun covers tips tuning neural networks through backpropagation  
 
