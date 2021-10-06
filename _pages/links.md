@@ -3,7 +3,23 @@ layout: page
 title: Hyperlinks
 ---
 
-Fun or useful references from around the web, annotated for search brevity.
+Fun or useful references from around the web, annotated with some keywords if you know what you're looking for. If you have a recommendation, even if doesn't fit in below, [drop me a note](mailto:pmg@duck.com).  
+
+
+<a name="personal"></a>
+### Personal Websites  
+The best feature of the web is the low overhead to serving your own content. Some folks design or write about really cool stuff, here's a mostly-annotated number of personal websites. Turns out much of the high-quality web content is highly interwoven!  
+
+[Gwern Branwen](https://www.gwern.net) frequently blogs a breadth of sometimes contrarian, unbashedly opinionated tech culture pieces  
+
+[Patrick Collison](https://patrickcollison.com/about) curates pages on topics he pondders, such as [quick execution](https://patrickcollison.com/fast)  
+
+José Luis Ricón blogs on [Nintil](https://nintil.com), where his recent thoughts have focused on longevity  
+
+[Andy Matuschak](https://andymatuschak.org) publishes his personal [notes](https://notes.andymatuschak.org/About_these_notes) online as an experiment of working in the open, writing about his experiences designing human empowering systems  
+
+
+
 
 <a name="dl"></a>
 ### Deep Learning  
@@ -44,8 +60,8 @@ A number of helpful sources for approaching linear algebra:
 
 
 <a name="essays"></a>
-### Essays  
-Just about any one of [Paul Graham's](http://www.paulgraham.com/articles.html) essays can satiate interests in technology, startups, and philosophy relating to the two  
+### Essays & Writing  
+Just about any one of Paul Graham's [essays](http://www.paulgraham.com/articles.html) can satiate interests in technology, startups, and philosophy relating to the two  
 
 [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds of the reality of working with persistent computational power growth  
 
