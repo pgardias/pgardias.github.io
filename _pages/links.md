@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Link Aggregator
+title: Hyperlinks
 ---
 
 Fun or useful references from around the web, annotated for search brevity.
@@ -45,6 +45,8 @@ A number of helpful sources for approaching linear algebra:
 
 <a name="essays"></a>
 ### Essays  
+Just about any one of [Paul Graham's](http://www.paulgraham.com/articles.html) essays can satiate interests in technology, startups, and philosophy relating to the two  
+
 [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds of the reality of working with persistent computational power growth  
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) by Richard Hamming reflects on his years at Bell Labs and research success  

@@ -1,9 +1,11 @@
 links:
-- title: home
+- title: about
   url: /
-- title: pubs
-  url: /pubs
 - title: 
   url: /writing
+- title: bookshelf
+  url: /bookshelf
+- title: pubs
+  url: /publications
 - title: links
   url: /links
