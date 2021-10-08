@@ -18,7 +18,7 @@ José Luis Ricón blogs on [Nintil](https://nintil.com), where his recent though
 
 [Andy Matuschak](https://andymatuschak.org) publishes his personal [notes](https://notes.andymatuschak.org/About_these_notes) online as an experiment of working in the open, writing about his experiences designing human empowering systems  
 
-And so many more...
+Some more...
 <div style="margin-left: 25px;" markdown=1>
 - [Julia Evans](https://jvns.ca)
 - [Dan Lemire](https://lemire.me/blog/)
