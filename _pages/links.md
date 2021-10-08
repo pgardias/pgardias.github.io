@@ -83,7 +83,7 @@ Just about any one of Paul Graham's [essays](http://www.paulgraham.com/articles.
 
 [Notes from the Mystery Machine Bus](https://gist.github.com/mrnugget/49ad3ee4043c746e42187e2820ddc2f6) by Steve Yegge is a legendary rant which frames software engineering as a political affiliation  
 
-[Farmer & Farmer](http://farmerandfarmer.org/index.html) by Jonathan Harris & Sep Kamvar write about the bridge between humans and technology   
+[Farmer & Farmer](http://farmerandfarmer.org/index.html) (Jonathan Harris & Sep Kamvar) write about the bridge between humans and technology   
 
 
 <a name="util"></a>
