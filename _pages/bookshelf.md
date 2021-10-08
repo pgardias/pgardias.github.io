@@ -7,7 +7,7 @@ As part of my undergraduate studies I had the pleasure of studying Dickens under
 
 I have always enjoyed browsing through curated lists (along the likes of Goodreads' [Listopia](https://www.goodreads.com/list)) — so, inspired by [pc](https://patrickcollison.com/bookshelf), here's a list of physical books I have picked up, usually following a recommendation.  
 
-> "Ownership is the most intimate relationship that one can have to objects. Not that they come alive in him; it is he who lives in them."  
+> Ownership is the most intimate relationship that one can have to objects. Not that they come alive in him; it is he who lives in them.  
 >  
 > — Walter Benjamin, <cite>[Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf)</cite>, 1931  
 
