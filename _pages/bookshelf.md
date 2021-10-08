@@ -36,8 +36,6 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 
 - [The Mystery of Edwin Drood](https://www.amazon.com/dp/0140439269)  
 </div>  
-  
----  
-  
-In his 1931 essay, [Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf), Walter Benjamin reflects on his collection.
+
+In his 1931 essay [Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf), Walter Benjamin reflects on his collection.
 > "Ownership is the most intimate relationship that one can have to objects. Not that they come alive in him; it is he who lives in them."
