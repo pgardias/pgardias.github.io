@@ -22,6 +22,7 @@ Some more...
 <div style="margin-left: 25px;" markdown=1>
 - [Julia Evans](https://jvns.ca)
 - [Dan Lemire](https://lemire.me/blog/)
+- [Tyler Cowen](https://marginalrevolution.com/?s=assorted+links)
 </div>
 
 
