@@ -22,7 +22,7 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 
 - [Hot, Flat, and Crowded: Why We Need a Green Revolution--And How It Can Renew America](https://www.amazon.com/dp/0374166854)  
 
-- [From Bacteria to Bach and Back: The Evolution of Minds](https://www.aamazon.com/dp/0393355500)  
+- [From Bacteria to Bach and Back: The Evolution of Minds](https://www.amazon.com/dp/0393355500)  
 
 - [How the Mind Works](https://www.amazon.com/dp/0393334775)  
 
