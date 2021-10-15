@@ -5,7 +5,7 @@ title: Bookshelf
 
 As part of my undergraduate studies I had the pleasure of studying Dickens under [Dr. Joel J. Brattin](https://www.wpi.edu/people/faculty/jjb), who moderated our discussions amongst the archives of the [Robert D. Fellman Dickens Collection](https://web.wpi.edu/academics/library/collections/feilman-dickens.html) at WPI. After wrapping up my graduate studies I found myself reaching for books that I hadn't found time for before.  
 
-I have always enjoyed browsing through curated lists (along the likes of Goodreads' [Listopia](https://www.goodreads.com/list)) — so, inspired by [pc](https://patrickcollison.com/bookshelf), here's a list of physical books I have picked up, usually following a recommendation.  
+I have always enjoyed browsing curated lists (along the likes of Goodreads' [Listopia](https://www.goodreads.com/list)) — so, inspired by [pc](https://patrickcollison.com/bookshelf), here's a list of physical books I have picked up, usually following a recommendation.  
 
 > Ownership is the most intimate relationship that one can have to objects. Not that they come alive in him; it is he who lives in them.  
 >  
