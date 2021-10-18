@@ -55,6 +55,8 @@ A number of helpful sources for approaching linear algebra:
 
 [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/) by the Asimov Institute is a fun exploration of the breadth of deep learning network architectures  
 
+[Distill](https://distill.pub) is a highly curated research journal which publishes quality articles that summarize areas of research in machine learning, often accompanied by interactive visualizations for better explainability of intricate techniques  
+
 <a href="https://arogozhnikov.github.io/einops/pytorch-examples.html" style="font-weight: 500;" markdown=1><span style="color: DarkSlateBlue;" markdown=1>ein</span>ops</a> is a PyTorch tensor modification library which easily abstracts complex transformations and has a handy [intro](https://github.com/arogozhnikov/einops/tree/master/docs)  
 
 [Weight-Agnostic Neural Networks](https://weightagnostic.github.io/) demonstrates the success of neural networks without training, focusing on optimal weight initialization for reinforcement learning and classical supervised learning tasks  
