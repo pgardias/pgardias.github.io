@@ -23,6 +23,7 @@ Some more...
 - [Julia Evans](https://jvns.ca)
 - [Dan Lemire](https://lemire.me/blog/)
 - [Tyler Cowen](https://marginalrevolution.com/?s=assorted+links)
+- [Andrew Chen](https://andrewchen.com/)  
 </div>
 
 
