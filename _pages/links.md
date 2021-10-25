@@ -3,7 +3,7 @@ layout: page
 title: Hyperlinks
 ---
 
-Fun or useful references from around the web, annotated with some keywords if you know what you're looking for. If you have a recommendation, even if doesn't fit in below, [send me a note](mailto:pmg@duck.com).  
+Fun or useful references from around the web, annotated with some keywords if you know what you're looking for. If you have a recommendation, [send me a note](mailto:pmg@duck.com).  
 
 
 <a name="personal"></a>
