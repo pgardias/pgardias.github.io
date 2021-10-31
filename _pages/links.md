@@ -2,10 +2,6 @@
 layout: page
 title: Hyperlinks
 ---
-
-Fun or useful references from around the web, annotated with some keywords if you know what you're looking for. If you have a recommendation, [send me a note](mailto:pmg@duck.com).  
-
-
 <a name="personal"></a>
 ### Personal Websites  
 The best feature of the web is the increasingly lower cost to hosting and serving your own content. Some folks write or design unique stuff, here's a mostly-annotated number of personal websites. Turns out much of the high-quality web content is highly interwoven!  
