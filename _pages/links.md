@@ -20,6 +20,7 @@ Some more...
 - [Dan Lemire](https://lemire.me/blog/)
 - [Tyler Cowen](https://marginalrevolution.com/?s=assorted+links)
 - [Andrew Chen](https://andrewchen.com/)  
+- [Haki Benita](https://hakibenita.com/)  
 </div>
 
 
