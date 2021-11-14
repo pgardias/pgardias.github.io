@@ -4,7 +4,7 @@ title: Hyperlinks
 ---
 <a name="personal"></a>
 ### Personal Websites  
-The best feature of the web is the kind of individual content that has nowadays been largely been segregated to social platforms. On the other hand, increasingly lower cost to hosting and serving your own content has made it easier for everyone to bring all sorts of people to publish to the web. Often times, this kind of stuff is hard to find and even connected to in the first place. Turns out much of the high-quality web content is highly interwoven!  
+The best feature of the web is the kind of individual content that has nowadays been largely been segregated to social platforms. On the other hand, increasingly lower cost to hosting and serving your own content has made it easier for many people to publish to the web. Often times, this kind of stuff is hard to find and even connected to in the first place. Turns out much of the high-quality web content is highly interwoven!  
 
 [Gwern Branwen](https://www.gwern.net) frequently blogs a breadth of sometimes contrarian, unbashedly opinionated tech culture pieces  
 
