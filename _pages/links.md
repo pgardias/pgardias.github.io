@@ -10,12 +10,11 @@ The best feature of the web is the increasingly lower cost to hosting and servin
 
 [Patrick Collison](https://patrickcollison.com/about) curates pages on topics he explores, such as [quick execution](https://patrickcollison.com/fast)  
 
-José Luis Ricón blogs on [Nintil](https://nintil.com), where his recent thoughts have focused on longevity  
-
 [Andy Matuschak](https://andymatuschak.org) publishes his personal [notes](https://notes.andymatuschak.org/About_these_notes) online as an experiment of working in the open, writing about his experiences designing human empowering systems  
 
 Some more...
 <div style="margin-left: 25px;" markdown=1>
+- [José Luis Ricón](https://nintil.com)
 - [Julia Evans](https://jvns.ca)
 - [Dan Lemire](https://lemire.me/blog/)
 - [Tyler Cowen](https://marginalrevolution.com/?s=assorted+links)
