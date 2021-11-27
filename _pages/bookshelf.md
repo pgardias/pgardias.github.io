@@ -28,7 +28,9 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 
 - [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://www.amazon.com/dp/0684841487)  
 
-- [Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life](https://www.amazon.com/dp/1476702721)
+- [Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life](https://www.amazon.com/dp/1476702721)  
+
+- [The Dream Machine](https://www.amazon.com/dp/1732265119)  
 
 - [Crafting Interpreters](https://www.amazon.com/dp/0990582930)  
 
