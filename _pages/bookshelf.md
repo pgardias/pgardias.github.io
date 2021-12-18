@@ -32,7 +32,7 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 
 - [Six Not-So-Easy Pieces: Einstein’s Relativity, Symmetry, and Space-Time](https://www.amazon.com/dp/0465025269)  
 
-- [Feynman's Rainbow](https://www.amazon.com/dp/0307946495)  
+- [Feynman's Rainbow: A Search for Beauty in Physics and in Life](https://www.amazon.com/dp/0307946495)  
 
 - [Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life](https://www.amazon.com/dp/1476702721)  
 
