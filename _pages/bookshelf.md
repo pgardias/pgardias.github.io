@@ -30,7 +30,7 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 
 - [The Character of Physical Law](https://www.amazon.com/dp/0262533413)  
 
-- [Six Not-So-Easy Pieces](https://www.amazon.com/dp/0465025269)  
+- [Six Not-So-Easy Pieces: Einstein’s Relativity, Symmetry, and Space-Time](https://www.amazon.com/dp/0465025269)  
 
 - [Feynman's Rainbow](https://www.amazon.com/dp/0307946495)  
 
