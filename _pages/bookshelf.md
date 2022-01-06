@@ -7,7 +7,7 @@ I have always enjoyed browsing curated lists (along the likes of Goodreads' [Lis
 
 > Ownership is the most intimate relationship that one can have to objects. Not that they come alive in him; it is he who lives in them.  
 >  
-> — Walter Benjamin, <cite>[Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf)</cite>, 1931  
+> - Walter Benjamin, <cite>[Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf)</cite>, 1931  
 
 If you have a recommendation or found this interesting [let me know](mailto:pmg@duck.com).  
 
@@ -37,6 +37,12 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 - [Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life](https://www.amazon.com/dp/1476702721)  
 
 - [The Dream Machine](https://www.amazon.com/dp/1732265119)  
+
+- [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)  
+
+- [The Design of Everday Things](https://www.amazon.com/dp/0465050654)  
+
+- [The Intelligent Investor](https://www.amazon.com/dp/0060555661)  
 
 - [Crafting Interpreters](https://www.amazon.com/dp/0990582930)  
 
