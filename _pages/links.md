@@ -64,7 +64,7 @@ A number of helpful sources for approaching linear algebra:
 
 
 <a name="essays"></a>
-### Essays & Writing  
+### Writing  
 Just about any one of Paul Graham's [essays](http://www.paulgraham.com/articles.html) can satiate interests in technology, startups, and philosophy relating to the two  
 
 [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton reminds of the reality of working with persistent computational power growth  
@@ -74,6 +74,8 @@ Just about any one of Paul Graham's [essays](http://www.paulgraham.com/articles.
 [How to do Research at the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) is full of useful advice for any researcher  
 
 [Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html) is an essay to prospective undergraduate students interested in research, from a [series](https://pages.gseis.ucla.edu/faculty/agre/index.html) of essays by Philip Agre  
+
+[The Illustrated Guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/) explains what a Ph.D. is with a set of diagrams, starting from your earliest education  
 
 [You Cannot Serve Two Masters](http://www.argmin.net/2018/08/09/co-employment/) by Ben Recht discusses industry misdirection of academic work away from "curiosity driven research"  
 
