@@ -7,7 +7,7 @@ I have always enjoyed browsing curated lists (along the likes of Goodreads' [Lis
 
 > Ownership is the most intimate relationship that one can have to objects. Not that they come alive in him; it is he who lives in them.  
 >  
-> - Walter Benjamin, <cite>[Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf)</cite>, 1931  
+> — Walter Benjamin, <cite>[Unpacking My Library](http://www.ruthieosterman.com/wp-content/uploads/2014/03/walterbenjaminunpacking.pdf)</cite>, 1931  
 
 If you have a recommendation or found this interesting [let me know](mailto:pmg@duck.com).  
 
