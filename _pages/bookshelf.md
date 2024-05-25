@@ -47,14 +47,4 @@ If you have a recommendation or found this interesting [let me know](mailto:pmg@
 - [Crafting Interpreters](https://www.amazon.com/dp/0990582930)  
 
 - [The C Programming Language](https://www.amazon.com/dp/0131103628)  
-
-- [Animal Farm](https://www.amazon.com/dp/0451526341)  
-
-- [1984](https://www.amazon.com/dp/0451524934)  
-
-- [David Copperfield](https://www.amazon.com/dp/0140439447)  
-
-- [Martin Chuzzlewit](https://www.amazon.com/dp/0140436146)  
-
-- [The Mystery of Edwin Drood](https://www.amazon.com/dp/0140439269)  
 </div>  
