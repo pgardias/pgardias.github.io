@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Przemek Marek Gardias
+title: Marek Gardias
 description: Machine Learning Engineer at Apple.
 ---
 
