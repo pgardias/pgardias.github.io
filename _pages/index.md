@@ -9,9 +9,10 @@ description: Machine Learning Engineer at Apple.
 		Machine Learning Engineer at <a href="https://www.apple.com/">Apple</a>.
 		<br>
 		<br>
-		Previously, Graduate Research Assistant at <a href="https://web.cs.wpi.edu/">Worcester Polytechnic Institute</a>, working under <a href="https://users.wpi.edu/~jrwhitehill/">Jacob Whitehill</a> at the intersection of applied deep learning and affective computing for classroom observations. 
+		Previously at <a href="https://web.cs.wpi.edu/">Worcester Polytechnic Institute</a>, doing research in applied deep learning and affective computing for classroom observations under guidance from <a href="https://users.wpi.edu/~jrwhitehill/">Jacob Whitehill</a>. 
 		<br>
 		<br>
 		<a href="{{ site.baseurl }}/pdf/cv.pdf">cv</a> | <a href="https://github.com/pgardias">github</a> | <a href="https://scholar.google.com/citations?user=LpoiVbkAAAAJ">scholar</a>
 	</p>
 </div>
+
