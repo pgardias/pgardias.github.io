@@ -6,7 +6,7 @@ description: Machine Learning Engineer at Apple.
 
 <div class="fp" markdown=0>
 	<p style="margin: 1.5rem 0; flex: 1 1 40%">
-		I build and use language models to do cool things for us ˖✦
+		I build and use language models to do cool things.
 		<br>
 		<br>
 		Machine Learning Engineer at <a href="https://www.apple.com/">Apple</a>.
@@ -18,5 +18,6 @@ description: Machine Learning Engineer at Apple.
 		<a href="{{ site.baseurl }}/pdf/cv.pdf">cv</a> | <a href="https://github.com/pgardias">github</a> | <a href="https://scholar.google.com/citations?user=LpoiVbkAAAAJ">scholar</a>
 	</p>
 </div>
+
 
 
