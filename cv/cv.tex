@@ -1,0 +1,74 @@
+% Build: tectonic cv.tex
+\documentclass[11pt]{article}
+\usepackage[letterpaper,hmargin=0.9in,vmargin=0.85in]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+
+\setmainfont{SF-Pro-Text}[
+  UprightFont=*-Regular, BoldFont=*-Semibold,
+  ItalicFont=*-RegularItalic, BoldItalicFont=*-SemiboldItalic,
+  Path=/Library/Fonts/, Extension=.otf]
+\newfontfamily\display{SF-Pro-Display}[
+  UprightFont=*-Semibold, BoldFont=*-Bold,
+  Path=/Library/Fonts/, Extension=.otf]
+
+% Apple system colors: label, secondary label, system blue.
+\definecolor{label}{HTML}{1D1D1F}
+\definecolor{secondary}{HTML}{6E6E73}
+\definecolor{accent}{HTML}{0071E3}
+
+\pagestyle{empty}
+\frenchspacing
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\linespread{1.2}
+\color{label}
+
+\hypersetup{pdftitle={Marek Gardias}, pdfauthor={Marek Gardias}}
+
+\newcommand{\link}[2]{\href{#1}{\textcolor{accent}{#2}}}
+\newcommand{\muted}[1]{\textcolor{secondary}{#1}}
+
+\newcommand{\heading}[1]{%
+  \vspace{30pt}{\display\fontsize{15}{18}\selectfont #1}\par\vspace{12pt}}
+
+% \role{title}{place}{dates}
+\newcommand{\role}[3]{%
+  \textbf{#1}\hfill\muted{#3}\par
+  \muted{#2}\par\vspace{11pt}}
+
+% \thing{name}{one line}
+\newcommand{\thing}[2]{%
+  \textbf{#1}\par
+  \muted{#2}\par\vspace{11pt}}
+
+\begin{document}
+
+{\display\fontsize{34}{40}\selectfont Marek Gardias}\par
+\vspace{6pt}
+\muted{Machine Learning Engineer, Apple}\par
+\vspace{4pt}
+\link{https://pmgardias.com}{pmgardias.com}\quad
+\link{mailto:przemek.gardias@gmail.com}{przemek.gardias@gmail.com}
+
+
+\heading{Experience}
+\role{Machine Learning Engineer}{Apple · Siri, Apple Intelligence, Foundation Models}{2022 –}
+\role{Graduate Researcher and Teaching Assistant}{Worcester Polytechnic Institute}{2020 – 2021}
+\role{Software Engineer Intern}{Proofpoint}{2019}
+\role{Software Engineer Intern}{Cloudflare}{2018}
+
+\heading{Education}
+\role{M.S. Computer Science}{Worcester Polytechnic Institute}{2021}
+\role{B.S. Computer Science, Cum Laude}{Worcester Polytechnic Institute}{2020}
+
+\heading{Projects and Publications}
+\thing{GNNs on social graphs}{Modeling interactions between people in videos of social settings.}
+\thing{Image outpainting}{Extending images with GANs, using residual connections for consistency.}
+\thing{Vision models for corrosion}{Scientific measurement of corrosion samples, in collaboration with the U.S. Army Research Lab.}
+\thing{Robot swarms in augmented reality}{Interactive methods for controlling robot swarms with voice and gesture.}
+
+\end{document}
